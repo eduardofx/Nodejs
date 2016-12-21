@@ -1,0 +1,19 @@
+{
+  "name": "node-son",
+  "version": "1.0.0",
+  "description": "Schoolofnet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardofx/Nodejs.git"
+  },
+  "author": "Eduardo Kawassaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardofx/Nodejs/issues"
+  },
+  "homepage": "https://github.com/eduardofx/Nodejs#readme"
+}
