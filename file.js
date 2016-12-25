@@ -1,15 +1,14 @@
 var fs = require('fs');
 
-/*
+
+
 // Cria arquivo
 fs.writeFile('data.txt', "Eduardo Kawassaki",function(err){
     if(err){
         throw err;
     }
 });
-*/
 
-/*
 //ler arquivo
 fs.readFile('data.txt', function(err, data){
     if(err){
@@ -18,9 +17,9 @@ fs.readFile('data.txt', function(err, data){
 
     console.log(data.toString('utf8'));
 });
-*/
 
-/*
+
+
 //lê arquivos
 fs.readdir('.',function(err,files){
     if(err){
@@ -31,7 +30,7 @@ fs.readdir('.',function(err,files){
         console.log(files[file]);
     }
 });
-*/
+
 
 //retorna somente arquivos js
 fs
